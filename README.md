@@ -1,0 +1,2 @@
+# Serpynth
+Discord bot.
