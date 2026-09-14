@@ -1,0 +1,200 @@
+{
+  "Sword": {
+    "id": "sword",
+    "type": "weapon",
+    "damage": 10,
+    "requires": null,
+    "uses": 4,
+    "cost": 15,
+    "cooldown": 60.0,
+    "effects": {}
+  },
+
+  "Daggers": {
+    "id": "daggers",
+    "type": "weapon",
+    "damage": 5,
+    "requires": null,
+    "uses": 10,
+    "cost": 20,
+    "cooldown": 20.0,
+    "effects": {}
+  },
+
+  "Katana": {
+    "id": "katana",
+    "type": "weapon",
+    "damage": 15,
+    "requires": null,
+    "uses": 3,
+    "cost": 20,
+    "cooldown": 45.0,
+    "effects": {}
+  },
+
+  "Knife": {
+    "id": "knife",
+    "type": "weapon",
+    "damage": 20,
+    "requires": null,
+    "uses": 1,
+    "cost": 10,
+    "cooldown": 30.0,
+    "effects": {}
+  },
+
+  "Scythe": {
+    "id": "scythe",
+    "type": "weapon",
+    "damage": 100,
+    "requires": null,
+    "uses": 1,
+    "cost": 90,
+    "cooldown": 1800.0,
+    "effects": {}
+  },
+
+  "Torch": {
+    "id": "torch",
+    "type": "weapon",
+    "damage": 5,
+    "requires": null,
+    "uses": 2,
+    "cost": 15,
+    "cooldown": 180.0,
+    "effects": {"flame": 25}
+  },
+
+  "Bandage": {
+    "id": "bandage",
+    "type": "self",
+    "damage": 0,
+    "requires": null,
+    "uses": 1,
+    "cost": 20,
+    "cooldown": 360.0,
+    "effects": {"heal": 40}
+  },
+
+  "Bow": {
+    "id": "bow",
+    "type": "munition",
+    "damage": 0,
+    "requires": null,
+    "uses": 20,
+    "cost": 30,
+    "cooldown": 60.0,
+    "effects": {}
+  },
+
+  "Crossbow": {
+    "id": "cross",
+    "type": "munition",
+    "damage": 0,
+    "requires": null,
+    "uses": 40,
+    "cost": 60,
+    "cooldown": 90.0,
+    "effects": {}
+  },
+
+  "Arrow": {
+    "id": "arrow",
+    "type": "ammo",
+    "damage": 10,
+    "requires": "bow",
+    "uses": 1,
+    "cost": 2,
+    "cooldown": 0.0,
+    "effects": {}
+  },
+
+  "Flame Arrow": {
+    "id": "flame",
+    "type": "ammo",
+    "damage": 10,
+    "requires": "bow",
+    "uses": 1,
+    "cost": 3,
+    "cooldown": 0.0,
+    "effects": {"flame": 10}
+  },
+
+  "Ice Arrow": {
+    "id": "ice",
+    "type": "ammo",
+    "damage": 5,
+    "requires": "bow",
+    "uses": 1,
+    "cost": 5,
+    "cooldown": 0.0,
+    "effects": {"freeze": 120}
+  },
+
+  "Quarrel": {
+    "id": "quarrel",
+    "type": "ammo",
+    "damage": 20,
+    "requires": "crossbow",
+    "uses": 1,
+    "cost": 2,
+    "cooldown": 0.0,
+    "effects": {}
+  },
+
+  "Fork": {
+    "id": "fork",
+    "type": "weapon",
+    "damage": 5,
+    "requires": null,
+    "uses": 2,
+    "cost": 5,
+    "cooldown": 5.0,
+    "effects": {}
+  },
+
+  "Boxing Gloves": {
+    "id": "gloves",
+    "type": "weapon",
+    "damage": 10,
+    "requires": null,
+    "uses": 4,
+    "cost": 20,
+    "cooldown": 30.0,
+    "effects": {"crit": 30, "stun": 20}
+  },
+
+  "Rat": {
+    "id": "rat",
+    "type": "creature",
+    "damage": 5,
+    "requires": null,
+    "uses": 1,
+    "cost": 10,
+    "cooldown": 60.0,
+    "effects": {"poison": 3}
+  },
+
+  "Snake": {
+    "id": "snake",
+    "type": "creature",
+    "damage": 15,
+    "requires": "rat",
+    "uses": 5,
+    "cost": 30,
+    "cooldown": 90.0,
+    "effects": {"poison": 6}
+  },
+
+  "Death Trumpet": {
+    "id": "trumpet",
+    "type": "weapon",
+    "damage": 10,
+    "requires": null,
+    "uses": 5,
+    "cost": 30,
+    "cooldown": 60.0,
+    "effects": {"stun": 40}
+  }
+
+}
