@@ -1,7 +1,3 @@
-####
-#
-####
-
 import discord
 import asyncio
 from discord.ext import tasks
