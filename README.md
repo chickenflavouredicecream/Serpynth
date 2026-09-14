@@ -33,5 +33,5 @@ Invite Serpynth to your server through
 - A Nebula subscription for free
 - 60% OFF for the first 150 people to click [this link](https://discord.com/oauth2/authorize?client_id=743131027786170509&permissions=931135222&scope=bot)
 
-I'm planning on keeping YeeBot relatively small and unverified, so
+I'm planning on keeping Serpynth relatively small and unverified, so
 go ahead and ask me any questions, give me any suggestions, and I'll most likely answer.
