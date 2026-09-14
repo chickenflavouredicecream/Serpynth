@@ -1,18 +1,15 @@
-# YeeBot!
+# Serpynth!
 
-YeeBot is a Discord bot I develop.
+Serpynth is a Discord bot I develop.
 He isn't much use to you if you want to moderate your server, but is great
 at entertainment.
 
-YeeBot was my first ever project in Python, and so a lot of code is very messy and inefficient.
-You don't need to tell me that.
+Serpynth was my first ever project in Python, and over time it grew to be a much larger project than I had ever would have expected.
 
-I know that there are just about no comments throughout the whole thing. Who needs comments anyway?
-
-Invite YeeBot to your server through
+Invite Serpynth to your server through
 [this link.](https://discord.com/oauth2/authorize?client_id=743131027786170509&permissions=931135222&scope=bot)
 
-![YeeBot](https://cdn.discordapp.com/attachments/749006528182353988/884855500620038174/SAAAAAElFTkSuQmCC.png)
+![Serpynth](https://cdn.discordapp.com/attachments/749006528182353988/884855500620038174/SAAAAAElFTkSuQmCC.png)
 
 ### Includes:
 - 150+ total commands
